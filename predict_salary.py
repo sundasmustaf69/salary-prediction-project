@@ -1,3 +1,5 @@
+#  To run this app, open terminal and type:
+#    streamlit run predict_salary.py
 import streamlit as st
 import numpy as np
 import pickle
